@@ -13,5 +13,7 @@ https://spectrum.ieee.org/tech-talk/computing/hardware/lowbudget-chip-design-how
 http://opencircuitdesign.com/magic/
 
 
+http://www.vlsiacademy.org/open-source-cad-tools.html
+
 
 
